@@ -40,7 +40,7 @@ const yogaGuideSchema = new mongoose.Schema(
     description: {
       type: String,
       required: [true, "Please provide a short description"],
-      maxlength: [100, "Description is too long"],
+      maxlength: [1000, "Description is too long"],
       trim: true,
     },
 
