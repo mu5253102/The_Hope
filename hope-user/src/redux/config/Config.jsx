@@ -16,9 +16,9 @@
 
 const CONFIG = {
   /** Dev Backend API Url */
-  // BACKEND_API_URL: 'http://10.0.2.2:8000/api',
+  BACKEND_API_URL: 'http://10.0.2.2:8000/api', //address for emulator 
   /** Prod Backend API Url */
-  BACKEND_API_URL: 'https://the-hope-backend-vert.vercel.app/api',
+  // BACKEND_API_URL: 'https://the-hope-backend-vert.vercel.app/api',
 };
 
 export default CONFIG;

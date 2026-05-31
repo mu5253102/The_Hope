@@ -8,7 +8,7 @@
  * between development (local) and production (cloud) environments.
  * * **Key Values:**
  * - **BACKEND_API_URL:** The base endpoint for all RESTful API communications.
- * * @constant {Object} CONFIG
+ * * @constant {Object} CONFIG 
  * @property {string} BACKEND_API_URL - The base URL used by services to communicate with the backend.
  */
 
